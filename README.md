@@ -67,6 +67,7 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 - [Giftoppr](https://github.com/desktoppr/giftoppr) - *Sync your favourite gifs with Dropbox*
 - [Gifit](https://github.com/Fauntleroy/GIFit) - *Chrome extension to make a GIF from a YouTube video*
 - [Ccapture.js](https://github.com/spite/ccapture.js) - *Capture animations created with HTML5 canvas*
+- [Kap](https://getkap.co/) - *Beautiful open-source app to capture your screen and export to GIF.* 
 
 
 ## Libraries
